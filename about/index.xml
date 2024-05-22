@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Conchy&#39;s house</title>
+    <link>http://localhost:52604/about/</link>
+    <description>Recent content in Abouts on Conchy&#39;s house</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2024 19:31:53 +0800</lastBuildDate>
+    <atom:link href="http://localhost:52604/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:52604/about/about/</link>
+      <pubDate>Wed, 22 May 2024 19:31:53 +0800</pubDate>
+      <guid>http://localhost:52604/about/about/</guid>
+      <description>Introduction Link to heading Hi!&#xA;This is Xin Xiong, a neophyte of OS (security) research, currently studying in secsys lab at Fudan University. I&amp;rsquo;ve been doing some researchs about bug detection in OS kernels with static analysis and fuzzing since 2020.&#xA;I&amp;rsquo;m quite intrigued by the magic of OS itself, which drives me crazy and yen to explore more in depth.&#xA;I&amp;rsquo;m also enthralled by the kaleidoscopic real-world kernel exploitations, which I quite enjoy analyzing it though not being able to do it myself :(</description>
+    </item>
+  </channel>
+</rss>
